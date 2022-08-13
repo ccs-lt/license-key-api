@@ -1,0 +1,9 @@
+Server: 
+  Port: 8000
+
+Database: 
+  User: ""
+  Password: ""
+  Name: "license-api"
+
+    
